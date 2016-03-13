@@ -2,6 +2,12 @@
 
 Generates subtitles for any video, analyzes the video, and identifies the adverbs, verbs, nouns etc by a colored output. Also supports a feature of translation to over **90+ worldwide languages**, including **several Indian regional languages** as well.
 
+## Files Description-:
+
+`gensubs.py` - It takes path of video as input, along with the desired language for the text to be translated to, and then generates the corresponding subtitles in the language specifies. By Default, the language is set to `English`
+
+<br>
+
 ##Langugages Supported-:
 
 <ul>
