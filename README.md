@@ -98,6 +98,24 @@ Generates subtitles for any video, analyzes the video, and identifies the adverb
 <li>'Zulu'</li>
 </ul>
 
+## Packages Requirements-:
+
+<ol>
+<li> Speech Recognition 3.3.3 - https://pypi.python.org/pypi/SpeechRecognition/ </li>
+<li> NLTK - http://www.nltk.org/install.html and http://www.nltk.org/data.html both are required to be installed </li>
+<li> Termcolor - https://pypi.python.org/pypi/termcolor </li>
+<li> Textblob - https://textblob.readthedocs.org/en/latest/index.html </li>
+<li> Perl Audio Converter - http://vorzox.wix.com/pacpl </li>
+<li> PyAudio - http://people.csail.mit.edu/hubert/pyaudio/ </li>
+</ol>
+
+It's better to install all these packages in a virtual environment `virtualenv`.
+
+Install these packages first, and just run the python file - `python gensubs.py <videopathwithextension> <language>` from the terminal. 
+
+If no `<language>` is passed as an argument while executing the script, text is by default shown in `English` language.
+
+
 ## Color Codes-:
 
 CC	coordinating conjunction - Cyan <br>
