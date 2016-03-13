@@ -168,5 +168,5 @@ WRB	wh-abverb	where, when - Magenta <br>
 
 ## Credits-:
 
-Ashutosh Saboo - https://github.com/ashutoshsaboo
+Ashutosh Saboo - https://github.com/ashutoshsaboo - https://github.com/ashutoshsaboo/GenSubs
 
