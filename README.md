@@ -97,3 +97,46 @@ Generates subtitles for any video, analyzes the video, and identifies the adverb
 <li>'Yoruba'</li>
 <li>'Zulu'</li>
 </ul>
+
+## Color Codes-:
+
+CC	coordinating conjunction - Cyan <br>
+CD	cardinal digit - Red <br>
+DT	determiner - Cyan <br>
+EX	existential there (like: "there is" ... think of it like "there exists") - Cyan <br>
+FW	foreign word - Cyan <br>
+IN	preposition/subordinating conjunction - Cyan <br>
+JJ	adjective	'big' - Grey <br>
+JJR	adjective, comparative	'bigger' - Grey <br>
+JJS	adjective, superlative	'biggest' - Grey <br>
+LS	list marker	1) - Green <br>
+MD	modal	could, will - Green <br>
+NN	noun, singular 'desk' - Red <br>
+NNS	noun plural	'desks' - Red <br>
+NNP	proper noun, singular	'Harrison' - Green <br>
+NNPS	proper noun, plural	'Americans' - Green <br>
+PDT	predeterminer	'all the kids' - Cyan <br>
+POS	possessive ending	parent's - Cyan <br>
+PRP	personal pronoun	I, he, she - Magenta <br>
+PRP$	possessive pronoun	my, his, hers - Magenta <br>
+RB	adverb	very, silently, - Blue <br>
+RBR	adverb, comparative	better - Blue <br>
+RBS	adverb, superlative	best - Blue <br>
+RP	particle	give up - Blue <br>
+TO	to	go 'to' the store. - White <br> 
+UH	interjection	errrrrrrrm - Green <br>
+VB	verb, base form	take - Yellow <br>
+VBD	verb, past tense	took - Yellow <br>
+VBG	verb, gerund/present participle	taking - Yellow <br>
+VBN	verb, past participle	taken - Yellow <br>
+VBP	verb, sing. present, non-3d	take - Yellow <br>
+VBZ	verb, 3rd person sing. present	takes - Yellow <br> 
+WDT	wh-determiner	which - Cyan <br>
+WP	wh-pronoun	who, what - Magenta <br>
+WP$	possessive wh-pronoun	whose - Magenta <br>
+WRB	wh-abverb	where, when - Magenta <br>
+
+## Credits-:
+
+Ashutosh Saboo - https://github.com/ashutoshsaboo
+
