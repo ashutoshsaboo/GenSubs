@@ -6,8 +6,6 @@ Generates subtitles for any video, analyzes the video, and identifies the adverb
 
 `gensubs.py` - It takes path of video as input, along with the desired language for the text to be translated to, and then generates the corresponding subtitles in the language specifies. By Default, the language is set to `English`
 
-<br>
-
 ##Langugages Supported-:
 
 <ul>
