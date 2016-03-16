@@ -170,3 +170,7 @@ WRB	wh-abverb	where, when - Magenta <br>
 
 Ashutosh Saboo - https://github.com/ashutoshsaboo - https://github.com/ashutoshsaboo/GenSubs
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ashutoshsaboo/gensubs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
